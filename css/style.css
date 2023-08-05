@@ -326,6 +326,7 @@ p {
     position: absolute;
     top: 0;
     left: 0;
+    object-fit: cover;
 }
 
 /* .long-distance-container {
@@ -518,8 +519,9 @@ p {
     align-items: center;
     gap: 10px;
 }
-.footer-container .footer-links- heading {
-    margin-bottom: 15px;
+.footer-container .footer-links-heading {
+    font-size: 18px;
+    padding-bottom: 15px;
 }
 .footer-container .footer-links {
     display: flex;
